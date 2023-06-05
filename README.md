@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PepeVegara888.
+- 👀 I’m interested in data analysis and software development, having studied degrees both in mathematics and informatics engineering.
+- 🌱 I’m currently working as a software developer in Murcia, Spain.
+- 📫 You can reach me by email (vegarahernandez@gmail.com).
